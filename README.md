@@ -19,7 +19,7 @@
 * METHOD: POST
 ```
 {
-	"id": "20",
+    "id": "20",
     "nombre": "Parlantes",
     "descripcion": "Parlantes Sony",
     "precio": "200",
